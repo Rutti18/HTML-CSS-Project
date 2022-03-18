@@ -1,0 +1,263 @@
+body {
+    background-color: #e4f9f5;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+
+.nav-head {
+    background-color:  #e4f9f5;
+    margin-bottom: 100px;
+    margin-top: 30px;
+}
+
+.image {
+    float: left;
+    margin-right: 40px;
+}
+
+.top-container {
+    margin-left: 250px;
+    margin-right: 250px;
+    padding-bottom: 
+    line-height: 2;
+    background-color: #e4f9f5;
+}
+
+.name {
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+    font-size: 3em;
+    margin-bottom: 2px;
+    
+}
+
+.web-designer {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+   
+}
+
+.paragraph {
+    line-height: 2;
+}
+
+.button-home {
+    margin-left: 950px;
+    background-color: #aae6e6;
+    
+}
+
+.button-Project {
+    margin-left: 50px;
+    background-color: #aae6e6;
+    
+}
+
+.button-interest {
+    margin-left: 50px;
+    background-color: #aae6e6;
+    
+}
+
+
+a:hover {
+    background-color: #70e0e0;
+}
+
+
+.button-LinkedIn {
+    margin-left: 600px;
+    margin-top: 120px;
+    margin-right: 10px;
+    background-color: #e4f9f5;
+    border: #66BFBF;
+    color: rgb(5, 65, 155);
+    
+}
+
+.button-Twitter {
+    margin-right: 10px;
+    background-color: #e4f9f5;
+    border: #66BFBF;
+    color: rgb(5, 65, 155);
+}
+
+.button-facebook {
+    background-color: #e4f9f5;
+    border: #66BFBF;
+    color: rgb(5, 65, 155);
+}
+
+.project-header {
+    margin-top: 30px;
+    
+}
+
+.project-Home {
+    margin-left: 85em;
+    background-color: #aae6e6;
+}
+
+.project-interest {
+    margin-left: 50px;
+    background-color: #aae6e6;
+}
+
+thead, th, td {
+    border: 1px solid rgb(20, 15, 15);
+    border-collapse: collapse;
+}
+
+.ol {
+    width: 100px;
+    
+}
+
+.tr, td {
+    
+    height: 50px;
+    text-align: center;
+    width: 200px;
+    
+}
+
+.table-div {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.tablerow1 {
+    background-color: #199e9e;
+}
+
+.tablerow2 {
+    background-color: #aaf5f5;
+}
+
+.tablerow3 {
+    background-color: rgb(161, 216, 230);
+}
+
+.tablerow4 {
+    background-color: #89dbcb;
+}
+
+.tablerow5 {
+    background-color: #78caca;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.interest-container {
+    height: 50px;
+}
+
+.interest-Home {
+    margin-left: 80em;
+    background-color: #aae6e6;
+}
+
+.interest-project {
+    margin-left: 50px;
+    background-color: #aae6e6;
+}
+
+.project-Project {
+    background-color: #aae6e6;
+    margin-left: 50px;
+}
+
+.interest-interest {
+    background-color: #aae6e6;
+    margin-left: 50px;
+}
+
+.interest-container1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    height: 35px;
+    margin-left: 39em;
+    margin-right: 39em;
+    color: white;
+    
+}
+
+.interest-container2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.box-one {
+    margin-right: 100px;
+}
+
+.box-three{
+    margin-left: 100px;
+}
+
+.interest-container3 {
+    display: flex;
+    flex-direction: row;
+    margin-left: 410px;
+       
+}
+    
+.yoga {
+  margin-right: 100px;
+}
+
+.dance {
+    margin-right: 100px;
+    margin-left: 170px;
+}
+
+.cooking {
+    margin-left: 175px;
+}
+
+.interest-container4 {
+     text-align: center;
+     margin-top: 40px;
+    margin-left: 38em;
+    margin-right: 38em;
+    color: white;
+}
+
+.interest-container5 {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.professional-box-one {
+    margin-right: 150px;
+    
+}
+
+.professional-box-two {
+    margin-right: 130px;
+}
+
+.professional-box-three {
+    margin-left:  30px;
+}
+
+.interest-container3 {
+    margin-top: 20px;
+}
+.business {
+    margin-left: 265px;
+}
+
+.stock-market {
+    margin-left: 255px;
+}
